@@ -1,5 +1,7 @@
 # Documentation
 
+![image](https://github.com/TrinhXuanTam/Maze-path-finder/assets/67837551/3d5c71e6-87c2-4e70-8b35-26bfee90c9f2)
+
 ## Running the Program
 
 Run the project in IntelliJ IDEA.
